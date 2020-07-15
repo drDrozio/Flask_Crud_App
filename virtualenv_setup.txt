@@ -1,0 +1,10 @@
+Goto Project Directory on terminal.
+
+1.Installing Virtual Environment->
+pip install virtualenv
+
+2.Creating Virtual Environment->
+virtualenv env_name
+
+3.Activating Virtual Environment->
+env_name\Scripts\activate.bat
